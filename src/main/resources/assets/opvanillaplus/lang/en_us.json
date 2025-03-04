@@ -1,0 +1,117 @@
+{
+
+  "advancements.adv_opvanillaplus_root.title": "OP's Vanilla Plus",
+  "advancements.adv_opvanillaplus_root.descr": "Vanilla additions by Offllne Player.",
+
+  "advancements.adv_crying_ingot.title": "Essence of hunger",
+  "advancements.adv_crying_ingot.descr": "Smelt Crying Obsidian in an OP Furnace.",
+
+  "advancements.adv_melt_block_of_crying_ingots.title": "Goldilocks",
+  "advancements.adv_melt_block_of_crying_ingots.descr": "Sucessfully melt a Block of Crying Ingots.",
+
+  "advancements.adv_crying_smithing_template.title": "Dipped in drip",
+  "advancements.adv_crying_smithing_template.descr": "Toss a Netherite smithing template into Crying Essence.",
+
+  "advancements.adv_golden_apple.title": "How it\u0027s made",
+  "advancements.adv_golden_apple.descr": "Toss a Golden Apple into Crying Essence.",
+
+  "advancements.adv_copper_furnace.title": "Chiseled Copper Cooker",
+  "advancements.adv_copper_furnace.descr": "Craft a Copper Furnace.",
+  "advancements.adv_iron_furnace.title": "Shouldn't This Melt?",
+  "advancements.adv_iron_furnace.descr": "Craft an Iron Furnace.",
+  "advancements.adv_gold_furnace.title": "Gilded Insulation",
+  "advancements.adv_gold_furnace.descr": "Craft a Gold Furnace.",
+  "advancements.adv_diamond_furnace.title": "Shining Smelter",
+  "advancements.adv_diamond_furnace.descr": "Craft a Diamond Furnace.",
+  "advancements.adv_netherite_furnace.title": "Blastproof Box",
+  "advancements.adv_netherite_furnace.descr": "Craft a Netherite Furnace.",
+
+  "advancements.adv_explode_crying_essence.title": "Too Hot!",
+  "advancements.adv_explode_crying_essence.descr": "Explode Crying Essence.",
+
+  "advancements.adv_explode_furnace.title": "Not Built For This",
+  "advancements.adv_explode_furnace.descr": "Explode a non-Netherite Furnace with Crying Obsidian.",
+
+  "advancements.adv_full_crying.title": "OP",
+  "advancements.adv_full_crying.descr": "Max out a full set of crying armor.",
+
+"/*-------*[Advancements]*": "",
+
+
+  "block.opvanillaplus.block_of_charcoal": "Block of Charcoal",
+
+  "block.opvanillaplus.block_of_crying_ingots": "Block Of Crying Ingots",
+
+  "block.opvanillaplus.chiseled_diamond": "Chiseled Diamond",
+  "block.opvanillaplus.chiseled_gold": "Chiseled Gold",
+  "block.opvanillaplus.chiseled_iron": "Chiseled Iron",
+  "block.opvanillaplus.chiseled_netherite": "Chiseled Netherite",
+
+  "block.opvanillaplus.copper_furnace": "Copper Furnace",
+  "block.opvanillaplus.diamond_furnace": "Diamond Furnace",
+  "block.opvanillaplus.gold_furnace": "Gold Furnace",
+  "block.opvanillaplus.iron_furnace": "Iron Furnace",
+  "block.opvanillaplus.netherite_furnace": "Netherite Furnace",
+
+  "block.opvanillaplus.dense_stone": "Dense Stone",
+  "block.opvanillaplus.dense_stone_button": "Dense Stone Button",
+  "block.opvanillaplus.dense_stone_fence": "Dense Stone Fence",
+  "block.opvanillaplus.dense_stone_fence_gate": "Dense Stone Fence Gate",
+  "block.opvanillaplus.dense_stone_pressure_plate": "Dense Stone Pressure Plate",
+  "block.opvanillaplus.dense_stone_slab": "Dense Stone Slab",
+  "block.opvanillaplus.dense_stone_stairs": "Dense Stone Stairs",
+  "block.opvanillaplus.dense_stone_trapdoor": "Dense Stone Trapdoor",
+  "block.opvanillaplus.dense_stone_wall": "Dense Stone Wall",
+
+  "block.opvanillaplus.dense_stone_bricks": "Dense Stone Bricks",
+  "block.opvanillaplus.dense_stone_brick_button": "Dense Stone Brick Button",
+  "block.opvanillaplus.dense_stone_brick_fence": "Dense Stone Brick Fence",
+  "block.opvanillaplus.dense_stone_brick_fence_gate": "Dense Stone Brick Fence Gate",
+  "block.opvanillaplus.dense_stone_brick_pressure_plate": "Dense Stone Brick Pressure Plate",
+  "block.opvanillaplus.dense_stone_brick_slab": "Dense Stone Brick Slab",
+  "block.opvanillaplus.dense_stone_brick_stairs": "Dense Stone Brick Stairs",
+  "block.opvanillaplus.dense_stone_brick_trapdoor": "Dense Stone Brick Trapdoor",
+  "block.opvanillaplus.dense_stone_brick_wall": "Dense Stone Brick Wall",
+
+  "block.opvanillaplus.dense_stone_tiles": "Dense Stone Tiles",
+  "block.opvanillaplus.dense_stone_tile_button": "Dense Stone Tile Button",
+  "block.opvanillaplus.dense_stone_tile_fence": "Dense Stone Tile Fence",
+  "block.opvanillaplus.dense_stone_tile_fence_gate": "Dense Stone Tile Fence Gate",
+  "block.opvanillaplus.dense_stone_tile_pressure_plate": "Dense Stone Tile Pressure Plate",
+  "block.opvanillaplus.dense_stone_tile_slab": "Dense Stone Tile Slab",
+  "block.opvanillaplus.dense_stone_tile_stairs": "Dense Stone Tile Stairs",
+  "block.opvanillaplus.dense_stone_tile_trapdoor": "Dense Stone Tile Trapdoor",
+  "block.opvanillaplus.dense_stone_tile_wall": "Dense Stone Tile Wall",
+
+  "block.opvanillaplus.stone_tiles": "Stone Tiles",
+  "block.opvanillaplus.stone_tile_button": "Stone Tile Button",
+  "block.opvanillaplus.stone_tile_fence": "Stone Tile Fence",
+  "block.opvanillaplus.stone_tile_fence_gate": "Stone Tile Fence Gate",
+  "block.opvanillaplus.stone_tile_pressure_plate": "Stone Tile Pressure Plate",
+  "block.opvanillaplus.stone_tile_slab": "Stone Tile Slab",
+  "block.opvanillaplus.stone_tile_stairs": "Stone Tile Stairs",
+  "block.opvanillaplus.stone_tile_trapdoor": "Stone Tile Trapdoor",
+  "block.opvanillaplus.stone_tile_wall": "Stone Tile Wall",
+
+  "/*-------*[Blocks]*": "",
+
+  "item.opvanillaplus.crying_essence_bucket": "Bucket of Crying Essence",
+
+  "item.opvanillaplus.chisel": "Chisel",
+  "item.opvanillaplus.crying_ingot": "Crying Ingot",
+  "item.opvanillaplus.crying_smithing_template": "Crying Smithing Template",
+
+  "item.opvanillaplus.crying_helmet": "Crying Helmet",
+  "item.opvanillaplus.crying_chestplate": "Crying Chestplate",
+  "item.opvanillaplus.crying_leggings": "Crying Leggings",
+  "item.opvanillaplus.crying_boots": "Crying Boots",
+
+  "item.opvanillaplus.crying_sword": "Crying Sword",
+  "item.opvanillaplus.crying_axe": "Crying Axe",
+  "item.opvanillaplus.crying_pickaxe": "Crying Pickaxe",
+  "item.opvanillaplus.crying_shovel": "Crying Shovel",
+  "item.opvanillaplus.crying_sickle": "Crying Sickle",
+
+  "/*-------*[Items]*": ""
+
+}
