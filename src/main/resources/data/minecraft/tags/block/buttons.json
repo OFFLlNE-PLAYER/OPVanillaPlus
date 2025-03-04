@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "opvanillaplus:dense_stone_button",
+    "opvanillaplus:dense_stone_brick_button",
+    "opvanillaplus:dense_stone_tile_button"
+  ]
+}

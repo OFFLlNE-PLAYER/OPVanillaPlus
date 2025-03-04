@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "opvanillaplus:item/text_crying_sword"
+  }
+}

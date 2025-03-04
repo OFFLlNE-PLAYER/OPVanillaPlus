@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "opvanillaplus:dense_stone_bricks"
+    },
+    "b": {
+      "item": "opvanillaplus:crying_ingot"
+    }
+  },
+  "result": {
+    "id": "opvanillaplus:crying_bricks",
+    "count": 4
+  }
+}

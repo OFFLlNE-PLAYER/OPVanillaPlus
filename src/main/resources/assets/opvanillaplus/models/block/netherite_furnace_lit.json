@@ -1,0 +1,14 @@
+{"parent": "block/cube",
+  "textures": {
+    "down": "opvanillaplus:block/text_chiseled_netherite",
+    "up": "opvanillaplus:block/text_chiseled_netherite",
+    "north": "opvanillaplus:block/text_netherite_furnace_lit",
+    "east": "opvanillaplus:block/text_chiseled_netherite",
+    "south": "opvanillaplus:block/text_chiseled_netherite",
+    "west": "opvanillaplus:block/text_chiseled_netherite",
+    "particle": "opvanillaplus:block/text_chiseled_netherite"
+  },
+  "render_type": "solid",
+  "emissive": true,
+  "light": 15
+}

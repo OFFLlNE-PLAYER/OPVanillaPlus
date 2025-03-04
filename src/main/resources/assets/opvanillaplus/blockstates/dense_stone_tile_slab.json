@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "opvanillaplus:block/dense_stone_tile_slab"
+    },
+    "type=top": {
+      "model": "opvanillaplus:block/dense_stone_tile_slab_top"
+    },
+    "type=double": {
+      "model": "opvanillaplus:block/dense_stone_tile_slab_full"
+    }
+  }
+}

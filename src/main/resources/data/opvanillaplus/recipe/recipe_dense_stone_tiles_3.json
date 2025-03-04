@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "opvanillaplus:dense_stone_bricks"
+    }
+  },
+  "result": {
+    "id": "opvanillaplus:dense_stone_tiles",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "opvanillaplus:block/text_dense_stone",
+    "particle": "opvanillaplus:block/text_dense_stone"
+  },
+  "render_type": "solid"
+}

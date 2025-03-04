@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "base": {
+    "item": "opvanillaplus:crying_essence_bucket"
+  },
+  "addition": {
+    "item": "opvanillaplus:crying_smithing_template"
+  },
+  "result": {
+    "id": "opvanillaplus:crying_pickaxe"
+  }
+}

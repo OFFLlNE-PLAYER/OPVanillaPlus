@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "opvanillaplus:block/chiseled_diamond"
+    },
+    "facing=east": {
+      "model": "opvanillaplus:block/chiseled_diamond",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "opvanillaplus:block/chiseled_diamond",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "opvanillaplus:block/chiseled_diamond",
+      "y": 270
+    }
+  }
+}

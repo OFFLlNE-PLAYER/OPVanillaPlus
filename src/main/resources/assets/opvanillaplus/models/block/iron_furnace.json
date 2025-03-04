@@ -1,0 +1,15 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "opvanillaplus:block/text_chiseled_iron",
+    "up": "opvanillaplus:block/text_chiseled_iron",
+    "north": "opvanillaplus:block/text_iron_furnace",
+    "east": "opvanillaplus:block/text_chiseled_iron",
+    "south": "opvanillaplus:block/text_chiseled_iron",
+    "west": "opvanillaplus:block/text_chiseled_iron",
+    "particle": "opvanillaplus:block/text_chiseled_iron"
+  },
+  "render_type": "solid",
+  "emissive": false,
+  "light": 0
+}

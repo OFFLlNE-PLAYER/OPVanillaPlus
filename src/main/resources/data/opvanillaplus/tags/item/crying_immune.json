@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "opvanillaplus:crying_ingot",
+    "opvanillaplus:blockof_crying_ingots",
+    "minecraft:ancient_debris",
+    "minecraft:amethyst_block",
+    "minecraft:budding_amethyst",
+    "minecraft:amethyst_cluster",
+    "opvanillaplus:netherite_furnace",
+    "minecraft:netherite_block",
+    "minecraft:netherite_ingot",
+    "minecraft:netherite_scrap",
+    "minecraft:netherite_sword",
+    "minecraft:netherite_shovel",
+    "minecraft:netherite_pickaxe",
+    "minecraft:netherite_axe",
+    "minecraft:netherite_hoe",
+    "minecraft:netherite_helmet",
+    "minecraft:netherite_chestplate",
+    "minecraft:netherite_leggings",
+    "minecraft:netherite_boots"
+  ]
+}

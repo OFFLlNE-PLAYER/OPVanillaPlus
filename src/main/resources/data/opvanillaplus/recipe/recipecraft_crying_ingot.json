@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "opvanillaplus:blockof_crying_ingots"
+    }
+  ],
+  "result": {
+    "id": "opvanillaplus:crying_ingot",
+    "count": 9
+  }
+}

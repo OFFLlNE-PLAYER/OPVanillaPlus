@@ -1,0 +1,14 @@
+{"parent": "block/cube",
+  "textures": {
+    "down": "opvanillaplus:block/text_chiseled_diamond",
+    "up": "opvanillaplus:block/text_chiseled_diamond",
+    "north": "opvanillaplus:block/text_diamond_furnace_lit",
+    "east": "opvanillaplus:block/text_chiseled_diamond",
+    "south": "opvanillaplus:block/text_chiseled_diamond",
+    "west": "opvanillaplus:block/text_chiseled_diamond",
+    "particle": "opvanillaplus:block/text_chiseled_diamond"
+  },
+  "render_type": "solid",
+  "emissive": true,
+  "light": 15
+}

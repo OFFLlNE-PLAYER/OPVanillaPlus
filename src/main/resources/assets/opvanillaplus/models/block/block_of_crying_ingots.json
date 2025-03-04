@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "opvanillaplus:block/text_block_of_crying_ingots_2",
+    "up": "opvanillaplus:block/text_block_of_crying_ingots_2",
+    "north": "opvanillaplus:block/text_block_of_crying_ingots",
+    "east": "opvanillaplus:block/text_block_of_crying_ingots_2",
+    "south": "opvanillaplus:block/text_block_of_crying_ingots",
+    "west": "opvanillaplus:block/text_block_of_crying_ingots_2",
+    "particle": "opvanillaplus:block/text_block_of_crying_ingots_2"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "opvanillaplus:block_of_crying_ingots",
+
+    "opvanillaplus:chiseled_diamond",
+    "opvanillaplus:diamond_furnace",
+
+    "opvanillaplus:chiseled_netherite",
+    "opvanillaplus:netherite_furnace"
+  ]
+}

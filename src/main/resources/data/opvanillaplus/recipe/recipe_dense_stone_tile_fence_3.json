@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "opvanillaplus:dense_stone_tiles"
+  },
+  "result": {
+    "id": "opvanillaplus:dense_stone_tile_fence",
+    "count": 1
+  }
+}

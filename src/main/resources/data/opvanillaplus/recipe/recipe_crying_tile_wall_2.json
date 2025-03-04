@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "opvanillaplus:crying_tiles"
+  },
+  "result": {
+    "id": "opvanillaplus:crying_tile_wall",
+    "count": 1
+  }
+}

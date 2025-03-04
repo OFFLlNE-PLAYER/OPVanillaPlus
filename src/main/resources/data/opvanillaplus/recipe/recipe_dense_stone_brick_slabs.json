@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "opvanillaplus:dense_stone_bricks"
+  },
+  "result": {
+    "id": "opvanillaplus:dense_stone_brick_slab",
+    "count": 2
+  }
+}

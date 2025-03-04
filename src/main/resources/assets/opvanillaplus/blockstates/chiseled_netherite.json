@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "opvanillaplus:block/chiseled_netherite"
+    },
+    "facing=east": {
+      "model": "opvanillaplus:block/chiseled_netherite",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "opvanillaplus:block/chiseled_netherite",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "opvanillaplus:block/chiseled_netherite",
+      "y": 270
+    }
+  }
+}

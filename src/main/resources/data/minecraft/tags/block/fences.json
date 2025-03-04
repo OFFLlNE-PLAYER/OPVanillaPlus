@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "opvanillaplus:dense_stone_fence",
+    "opvanillaplus:dense_stone_brick_fence",
+    "opvanillaplus:dense_stone_tile_fence"
+  ]
+}

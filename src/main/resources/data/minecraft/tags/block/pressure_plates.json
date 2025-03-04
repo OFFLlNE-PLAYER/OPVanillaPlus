@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "opvanillaplus:dense_stone_pressure_plate",
+    "opvanillaplus:dense_stone_brick_pressure_plate",
+    "opvanillaplus:dense_stone_tile_pressure_plate"
+  ]
+}

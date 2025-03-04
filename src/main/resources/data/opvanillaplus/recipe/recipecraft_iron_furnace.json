@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "opvanillaplus:chiseled_iron"
+    },
+    "b": {
+      "item": "opvanillaplus:copper_furnace"
+    }
+  },
+  "result": {
+    "id": "opvanillaplus:iron_furnace",
+    "count": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "replace": false,
+  "values": [
+
+    "opvanillaplus:block_of_crying_ingots",
+
+    "opvanillaplus:chiseled_diamond",
+    "opvanillaplus:chiseled_gold",
+    "opvanillaplus:chiseled_iron",
+    "opvanillaplus:chiseled_netherite",
+
+    "opvanillaplus:dense_stone",
+    "opvanillaplus:dense_stone_button",
+    "opvanillaplus:dense_stone_fence",
+    "opvanillaplus:dense_stone_fence_gate",
+    "opvanillaplus:dense_stone_pressure_plate",
+    "opvanillaplus:dense_stone_stairs",
+    "opvanillaplus:dense_stone_slab",
+    "opvanillaplus:dense_stone_trapdoor",
+    "opvanillaplus:dense_stone_wall",
+
+    "opvanillaplus:dense_stone_bricks",
+    "opvanillaplus:dense_stone_brick_button",
+    "opvanillaplus:dense_stone_brick_fence",
+    "opvanillaplus:dense_stone_brick_fence_gate",
+    "opvanillaplus:dense_stone_brick_pressure_plate",
+    "opvanillaplus:dense_stone_brick_slab",
+    "opvanillaplus:dense_stone_brick_stairs",
+    "opvanillaplus:dense_stone_brick_trapdoor",
+    "opvanillaplus:dense_stone_brick_wall",
+
+    "opvanillaplus:dense_stone_tiles",
+    "opvanillaplus:dense_stone_tile_button",
+    "opvanillaplus:dense_stone_tile_fence",
+    "opvanillaplus:dense_stone_tile_fence_gate",
+    "opvanillaplus:dense_stone_tile_pressure_plate",
+    "opvanillaplus:dense_stone_tile_slab",
+    "opvanillaplus:dense_stone_tile_stairs",
+    "opvanillaplus:dense_stone_tile_trapdoor",
+    "opvanillaplus:dense_stone_tile_wall",
+
+    "opvanillaplus:copper_furnace",
+    "opvanillaplus:diamond_furnace",
+    "opvanillaplus:gold_furnace",
+    "opvanillaplus:iron_furnace",
+    "opvanillaplus:netherite_furnace"
+  ]
+}

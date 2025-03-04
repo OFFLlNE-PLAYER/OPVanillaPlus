@@ -1,0 +1,15 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "opvanillaplus:block/text_chiseled_gold",
+    "up": "opvanillaplus:block/text_chiseled_gold",
+    "north": "opvanillaplus:block/text_gold_furnace",
+    "east": "opvanillaplus:block/text_chiseled_gold",
+    "south": "opvanillaplus:block/text_chiseled_gold",
+    "west": "opvanillaplus:block/text_chiseled_gold",
+    "particle": "opvanillaplus:block/text_chiseled_gold"
+  },
+  "render_type": "solid",
+  "emissive": false,
+  "light": 0
+}

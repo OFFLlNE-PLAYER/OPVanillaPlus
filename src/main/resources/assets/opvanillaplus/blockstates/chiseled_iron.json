@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "opvanillaplus:block/chiseled_iron"
+    },
+    "facing=east": {
+      "model": "opvanillaplus:block/chiseled_iron",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "opvanillaplus:block/chiseled_iron",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "opvanillaplus:block/chiseled_iron",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "opvanillaplus:block/chiseled_iron",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "opvanillaplus:block/chiseled_iron",
+      "x": 90
+    }
+  }
+}
